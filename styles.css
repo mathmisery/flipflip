@@ -1,0 +1,36 @@
+
+.left-menu{
+}
+.game-main{
+}
+.right-menu{
+}
+
+.game{
+}
+
+.game_stats{
+  font-size:18pt;
+  font-weight:600;
+  border-radius: 15px;
+  background-color: #f0f0ff;
+  margin:10px;
+}
+
+.game{
+  padding-bottom: 5px;
+  }
+
+#chips{
+}
+#heads{
+}
+#tails{
+}
+
+#continue{
+}
+#reset{
+}
+#newgame{
+}
